@@ -14,6 +14,13 @@ Hello!<br><br>I'm Tyler, an IT Asset Management professional focused on tracking
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CyberBlocker&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
+<p align="center">
+  <em>"Inspect. Filter. Deny."</em><br/>
+  <em>— Cyber Blocker</em>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
