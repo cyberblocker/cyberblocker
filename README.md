@@ -15,9 +15,6 @@ Hello!<br><br>I'm Tyler, an IT Asset Management professional focused on tracking
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CyberBlocker&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=CyberBlocker&icon=2&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
