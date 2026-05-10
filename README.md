@@ -1,6 +1,7 @@
-# CyberBlocker:
-Hello!<br><br>I'm Tyler, an IT Asset Management professional focused on tracking, maintaining, and optimizing technology assets across the organization.<br><br>Currently working toward transitioning into cybersecurity, with a strong interest in network security, cloud, and data analysis. Actively building skills in Python and studying for the CCNA to strengthen core networking knowledge and move into a security-focused role.<br><br>Reach out to me if you want to connect!
+![image_alt](https://github.com/cyberblocker/cyberblocker/blob/67d0fcb7ac658a5fb7fdaa40a719448a45cbd9a7/CyberBlockerBanner.png)
 
+#
+Hello!<br><br>I'm Tyler, an IT Asset Management professional focused on tracking, maintaining, and optimizing technology assets across the organization.<br><br>Currently working toward transitioning into cybersecurity, with a strong interest in network security, cloud, and data analysis. Actively building skills in Python and studying for the CCNA to strengthen core networking knowledge and move into a security-focused role.<br><br>Reach out to me if you want to connect!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyberblocker) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerblocker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cyber_blocker) 
