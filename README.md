@@ -10,6 +10,10 @@ Hello!<br><br>I'm Tyler, an IT Asset Management professional focused on tracking
 # 💻 Tech Stack:
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+# 💻 Projects:
+
+WIP
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=CyberBlocker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CyberBlocker&theme=tokyonight&hide_border=false)<br/>
