@@ -18,8 +18,6 @@ WIP
 ![](https://github-readme-stats.shion.dev/api?username=CyberBlocker&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CyberBlocker&theme=tokyonight&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CyberBlocker&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
